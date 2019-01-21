@@ -1,4 +1,4 @@
-class PointDemo1
+class PointDemo 
 {
  public static void main(String[] args) 
 	{
