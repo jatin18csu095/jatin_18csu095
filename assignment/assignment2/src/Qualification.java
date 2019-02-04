@@ -1,18 +1,18 @@
 package com.ncu.assignment;
 public class Qualification
 {
-	String Name;
+	String qualName;
 	String university;
 	String institute;
 	float cgpa;
 	
-	public void setName(String Name)
+	public void setqualName(String qualName)
 	{
-		this.Name=Name;
+		this.qualName=qualName;
 	}
-	public String getName()
+	public String getqualName()
 	{
-		return Name;
+		return qualName;
 	}
 	
 	public void setuniversity(String university)

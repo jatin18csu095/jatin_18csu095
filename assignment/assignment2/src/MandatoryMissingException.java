@@ -5,6 +5,7 @@ public class MandatoryMissingException extends Exception
 	public MandatoryMissingException(String ex1)
 	{
 		s1=ex1;
+		
 	}
 	public String toString()
 	{
